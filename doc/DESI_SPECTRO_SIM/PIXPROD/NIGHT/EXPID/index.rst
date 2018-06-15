@@ -16,4 +16,7 @@ so this is not yet possible.
 .. toctree::
    :maxdepth: 1
 
-   EXPID/index
+   fibermap-EXPID.rst
+   pix-CAMERA-EXPID.rst
+   simpix-CAMERA-EXPID.rst
+   simspec-EXPID.rst
